@@ -4,7 +4,7 @@ Wallet Connect and Metamask providers installed
 
 ## Install the dependencies
 ```bash
-npm install
+yarn install
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
